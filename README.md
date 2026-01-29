@@ -36,21 +36,35 @@
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince9724&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince9724&layout=compact&theme=tokyonight" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Prince9724&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Prince9724&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince9724&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince9724&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+  />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
-
+<h2 align="left">🚀 My GitHub Journey</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prince9724&theme=onedark&margin-w=15" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Prince9724&theme=react-dark&area=true&hide_border=true" 
+    alt="GitHub Activity Graph" 
+    style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);" 
+  />
 </p>
+
+---
