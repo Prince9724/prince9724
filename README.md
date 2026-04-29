@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prince Gond</h1>
+<h1 align="center"> Hi 👋, I'm Prince Gond</h1>
 <h3 align="center">🎯 Full Stack Developer | Turning ideas into web applications</h3>
 
 <p align="center">
