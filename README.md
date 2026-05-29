@@ -16,7 +16,7 @@
 
 ## 🚀 About My GitHub Journey
 
-- 🌱 I started my journey with **HTML, CSS & JavaScript**
+- 🌱 I started my journey with **HTML, CSS & JavaScript ReactJS NextJs Frontend Complete. **
 - 🔥 Currently learning **Full Stack Development**
 - 🛠️ Building real-world projects like **Quiz Apps, Auth Systems & UI Designs**
 - 📈 Improving problem-solving and clean code practices
