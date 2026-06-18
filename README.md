@@ -53,6 +53,8 @@ Passionate about building responsive, scalable, and user-friendly web applicatio
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" width="45" height="45" alt="Express.js"/>
+  <img src="https://d2lgmzy8vjj79z.cloudfront.net/mongodb.svg" width="45" height="45" alt="MongoDB"/>
 </p>
 
 ### Tools
