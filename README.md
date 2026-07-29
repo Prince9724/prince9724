@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Prince Gond</h1>
 
 <h3 align="center">
-Frontend Developer | React.js Developer | Full Stack Developer (Learning)
+Frontend Developer | React.js Developer | Mern stack developer | Full Stack Developer (Learning)
 </h3>
 
 <p align="center">
