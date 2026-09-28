@@ -22,7 +22,7 @@ Passionate about building responsive, scalable, and user-friendly web applicatio
 
 ## 🚀 About Me
 
-* 💻 Frontend Developer with a strong focus on React.js
+* 💻 MERN stack Developer with a strong focus on Full stack web development. 
 * ⚛️ Experienced in building responsive web applications using React.js and Redux Toolkit
 * 🌱 Currently learning Node.js and Backend Development
 * 🏗️ Building real-world projects to strengthen Full Stack Development skills
